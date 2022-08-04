@@ -1,0 +1,22 @@
+.body-end{
+  font-family: Arial;
+  font-size: 30px;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+
+  margin-top: 20px;
+}
+
+.last-picture{
+  margin-bottom: 50px;
+  width: 300px;
+  margin-left: 70px;
+  border-radius: 160px;
+}
+
+.text-last{
+  margin-top: 100px;
+  margin-left: 90px;
+}
+
+
